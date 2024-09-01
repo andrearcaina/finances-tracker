@@ -13,7 +13,7 @@
     "framer-motion": "^11.2.6",
     "hamburger-react": "^2.5.1",
     "moment": "^2.30.1",
-    "next": "14.2.3",
+    "next": "14.2.7",
     "primereact": "^10.6.6",
     "react": "^18",
     "react-big-calendar": "^1.12.2",
